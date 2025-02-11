@@ -1,5 +1,6 @@
 #!/bin/bash
 
+redshift -O 4500                     # For eye protection while reading, you can disable it by typing redshift -O 4500
 echo "Please answer the following questions -"
 echo "Which genre or topic do you want to read today?"
 echo " "
