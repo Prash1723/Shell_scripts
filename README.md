@@ -1,8 +1,13 @@
 # Shell_scripts
 Shell scripts to automate and run process on linux
-# Book Reading Script
 
-Aim: A simple bash script to open and read books from your linux terminal.
-#Shell scripts
+## Following are the scripts -
 
-Shell scripts to run and automate process on linux
+- Book reading script
+- Shutdown script
+- Clear text script
+- Simple Calculator script
+- File Sorter script
+- Remove gaps in text script
+- Video Resizer script
+
