@@ -4,7 +4,7 @@ echo "Do you want to enable reading mode?"
 read answer1
 if [ $answer1 = "y" ]
 then 
-	redshift -O 4500                     # For eye protection while reading, you can disable it by typing redshift -O 4500
+	redshift -O 4500                     # For eye protection while reading, you can disable it by typing redshift -x
 else
 	echo "OK"
 fi
