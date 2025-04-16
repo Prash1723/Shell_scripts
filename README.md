@@ -36,7 +36,7 @@ cd Shell_scripts
 
 ```bash
 bash script_folder/script.sh
-'''
+```
 
 ## License
 
