@@ -49,17 +49,3 @@ The analysis is inspired by the contributor's desire to automate daily processes
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-
-## License
-
-The project is licensed under the MIT License. See the `LICENSE.md` file for more information.
-
-## Acknowledgements
-
-The analysis is inspired by the contributor's desire to automate daily processes on Linux/Mac servers.
-
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submita pull request.
-
