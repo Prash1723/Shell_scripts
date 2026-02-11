@@ -1,4 +1,4 @@
-#!/bin/bash
+`#!/bin/bash
 
 echo "Do you want to enable reading mode?"
 read answer1
