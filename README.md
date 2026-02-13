@@ -11,6 +11,8 @@ The aim of this project is to create Shell scripts to automate and run processes
 - File Sorter script
 - Remove gaps in text script
 - Video Resizer script
+- Watermark writer
+- Note email
 
 ## Requirements -
 

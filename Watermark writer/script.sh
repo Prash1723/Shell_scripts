@@ -6,7 +6,7 @@ for i in $( ls ~/Pictures/watermark_files/input/ );
 do
 	image=~/Pictures/watermark_files/input/$i
 	wm_image=~/Pictures/watermark_files/output/$i
-	watermark="nerosdungeon"
+	watermark="watermark"
 	convert "$image" -pointsize 40 \
 		-gravity NorthWest -pointsize 20 -fill "rgba(255,255,255,0.5)" -annotate +10+10 "$watermark" \
 		-gravity NorthEast -pointsize 20 -fill "rgba(255,255,255,0.5)" -annotate +10+10 "$watermark" \
