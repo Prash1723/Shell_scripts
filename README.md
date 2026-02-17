@@ -13,6 +13,7 @@ The aim of this project is to create Shell scripts to automate and run processes
 - Video Resizer script
 - Watermark writer
 - Note email
+- Audio/Video segmentation
 
 ## Requirements -
 
